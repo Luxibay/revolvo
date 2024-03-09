@@ -1,0 +1,14 @@
+{
+    "name": "luxibay/revolvo",
+    "description": "Adds a Gravity Forms element to Breakdance",
+    "type": "wordpress-plugin",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Luxibay"
+        }
+    ],
+    "require": {
+        "wptrt/admin-notices": "^1.0"
+    }
+}
